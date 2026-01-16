@@ -43,7 +43,7 @@ Notebooks/ → Jupyter notebook for full workflow
 Data/ → Dataset used for training and analysis
 
 Next Improvements:
-Add ROC-AUC and PR-AUC evaluation
-Hyperparameter tuning using GridSearchCV
-Feature importance visualization
-Deploy as a small FastAPI prediction service
+Add ROC-AUC and PR-AUC evaluation,
+Hyperparameter tuning using GridSearchCV,
+Feature importance visualization,
+Deploy as a small FastAPI prediction service,
