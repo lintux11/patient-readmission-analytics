@@ -24,13 +24,19 @@ How to Run:
 1. Clone the repository:
    git clone https://github.com/lintux11/patient-readmission-analytics.git
    cd patient-readmission-analytics
+
+   
 2.Create virtual environment and install dependencies:
    python3 -m venv .venv
    source .venv/bin/activate
    pip install pandas numpy scikit-learn matplotlib
+
+   
 3.Open notebook
     code .
 Run (readmission.ipynb)
+
+
 
 Folder Structure:
 Notebooks/ → Jupyter notebook for full workflow
