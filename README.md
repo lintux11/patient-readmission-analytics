@@ -26,15 +26,15 @@ How to Run:
    cd patient-readmission-analytics
 
    
-2.Create virtual environment and install dependencies:
+ 2.Create virtual environment and install dependencies:
    python3 -m venv .venv
    source .venv/bin/activate
    pip install pandas numpy scikit-learn matplotlib
 
    
-3.Open notebook
+ 3.Open notebook
     code .
-Run (readmission.ipynb)
+ Run (readmission.ipynb)
 
 
 
