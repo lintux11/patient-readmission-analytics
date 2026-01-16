@@ -46,4 +46,4 @@ Next Improvements:
 Add ROC-AUC and PR-AUC evaluation,
 Hyperparameter tuning using GridSearchCV,
 Feature importance visualization,
-Deploy as a small FastAPI prediction service,
+Deploy as a small FastAPI prediction service
